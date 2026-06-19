@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu aliento me falta
+
+This log tracks the cryptographic history and versioning for the song **Tu aliento me falta** (tu-aliento-me-falta).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-19T17:02:06.206812 | `v1` | `4f7e05b471f4b7fc7f103d651bcc47a593e91da9e8f2a52a6b270b89f581f336` | `20a786bed3c7d0c8b981e47f0bc39a7d70e39f1b72edd628e5fecebd3d9f21eb` | `2026-06-19_tu-aliento-me-falta-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
