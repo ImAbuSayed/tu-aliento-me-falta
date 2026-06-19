@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-aliento-me-falta/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Tu aliento me falta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-me-falta/) |
+| **Get License** | [Secure Licensing Rights for Tu aliento me falta](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-aliento-me-falta/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu cuerpo en la pista, fuego en la mirada,
+> Me acerco de a poco, la noche no acaba.
+> Tu aliento me falta, me roba la calma,
+> Bailando en la sombra, se enciende mi alma.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
